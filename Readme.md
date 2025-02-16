@@ -2,7 +2,7 @@
 
 ##  🥇 Previous Works
 
-### <a href="https://github.com/Immutal0/web3-ai-projects">Blockchain & AI Projects</a> 
+### <a href="https://github.com/Immutal0/blockchain-projects">Blockchain & AI Projects</a> 
 
 ### <a href="https://github.com/Immutal0/full-stack-projects">Full Stack Projects</a>  
 
