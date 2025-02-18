@@ -1,6 +1,6 @@
 ## 👻 Seasoned Detail Driven Full Stack Blockchain Developer
 
-##  🥇 Previous Works
+##  🥇 Recent Projects
 
 ### <a href="https://github.com/Immutal0/blockchain-projects">Blockchain & AI Projects</a> 
 
